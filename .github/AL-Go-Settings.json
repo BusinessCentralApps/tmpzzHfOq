@@ -1,0 +1,6 @@
+{
+  "type": "PTE",
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@v6.1",
+  "MicrosoftTelemetryConnectionString": "",
+  "PullRequestTrigger": "pull_request"
+}
